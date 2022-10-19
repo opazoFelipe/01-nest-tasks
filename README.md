@@ -1,5 +1,5 @@
 # 01-nest-tasks
-Un backend simple tipo crud para tasks
+Un backend simple para mantener tasks desarrollado con NEST y MongoDB
 
 1. Instalar depedencias
 Situados en una terminal dentro del root del proyecto
